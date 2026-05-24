@@ -1,1 +1,7 @@
 /node_modules/
+/.idea/.gitignore
+/.idea/.name
+/.idea/mesto-ad.iml
+/.idea/modules.xml
+/package-lock.json
+/.idea/vcs.xml
